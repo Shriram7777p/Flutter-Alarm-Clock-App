@@ -1,12 +1,16 @@
-# Flutter Alarm Clock App
- * This Alarm app consists of CRUD Features developed on the Flutter
-## Core Features
-### 1 Date and Time Alarm CRUD
-* Allow users to Create, Read, Update, and Delete alarms that are set for specific dates and times.
-### 2 Recurrent Alarms
-* Implement the option to set alarms that repeat on selected days.
-### 3 Expired Alarms
-* Automatically categorize alarms that have passed as “Expired.”
-### 4 Search & Edit
-* Enable users to search for alarms and edit or delete them.
- 
+# alarm
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
