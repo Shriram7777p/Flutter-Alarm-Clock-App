@@ -1,6 +1,4 @@
-# alarm
-
-A new Flutter project.
+# A Simple Alarm Clock
 
 ## Getting Started
 
